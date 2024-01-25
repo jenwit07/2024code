@@ -1,0 +1,39 @@
+{
+  "name": "to-do-list-api",
+  "version": "1.0.0",
+  "description": "API for sample to-do list app",
+  "main": "src/index.js",
+  "scripts": {
+    "clean": "rm -rf build && mkdir build",
+    "build-server": "babel -d ./build ./src -s && cp -r ./src/api.yaml ./build/api.yaml",
+    "build": "npm run clean && npm run build-server",
+    "prestart": "npm install",
+    "start:server": "node index.js",
+    "start": "node src/index.js",
+    "babel-node": "babel-node",
+    "start:dev": "nodemon --exec npm run babel-node -- ./build/index.js"
+  },
+  "license": "Unlicense",
+  "private": true,
+  "dependencies": {
+    "@babel/node": "^7.22.19",
+    "@babel/preset-env": "^7.23.8",
+    "@babel/runtime": "^7.23.8",
+    "babel-node": "^0.0.1-security",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "dayjs": "^1.11.10",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.1.5",
+    "helmet": "^7.1.0",
+    "swagger-ui-express": "^5.0.0",
+    "yaml": "^2.3.4"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.13",
+    "@babel/plugin-transform-runtime": "^7.16.0",
+    "nodemon": "^3.0.3"
+  }
+}
