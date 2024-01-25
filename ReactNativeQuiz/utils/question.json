@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "questionText": "What keeps your bones healthy?",
+        "answers": ["Fruit", "Milk", "Candy", "Soda"],
+        "correctAnswer": "Milk"
+    },
+    {
+        "id": 2,
+        "questionText": "Which fruit is yellow?",
+        "answers": ["Apple", "Banana", "Grape", "Berry"],
+        "correctAnswer": "Banana"
+    },
+    {
+        "id": 3,
+        "questionText": "How many hours should you sleep?",
+        "answers": ["4", "8", "10", "12"],
+        "correctAnswer": "8"
+    },
+    {
+        "id": 4,
+        "questionText": "What do you use to brush your teeth?",
+        "answers": ["Brush", "Floss", "Paste", "Water"],
+        "correctAnswer": "Brush"
+    },
+    {
+        "id": 5,
+        "questionText": "What should you eat most?",
+        "answers": ["Meat", "Candy", "Veggies", "Bread"],
+        "correctAnswer": "Veggies"
+    },
+    {
+        "id": 6,
+        "questionText": "What's good for muscles?",
+        "answers": ["Candy", "Soda", "Juice", "Water"],
+        "correctAnswer": "Water"
+    },
+    {
+        "id": 7,
+        "questionText": "Which is NOT a healthy drink?",
+        "answers": ["Water", "Milk", "Soda", "Juice"],
+        "correctAnswer": "Soda"
+    },
+    {
+        "id": 8,
+        "questionText": "What helps you see in the dark?",
+        "answers": ["Candy", "Carrots", "Cake", "Coke"],
+        "correctAnswer": "Carrots"
+    },
+    {
+        "id": 9,
+        "questionText": "How do we keep fit?",
+        "answers": ["Sleep", "Run", "Eat", "Read"],
+        "correctAnswer": "Run"
+    },
+    {
+        "id": 10,
+        "questionText": "What keeps your hair healthy?",
+        "answers": ["Cap", "Ribbon", "Shampoo", "Towel"],
+        "correctAnswer": "Shampoo"
+    },
+    {
+        "id": 11,
+        "questionText": "Which activity is NOT physical?",
+        "answers": ["Jumping", "Running", "Reading", "Swimming"],
+        "correctAnswer": "Reading"
+    },
+    {
+        "id": 12,
+        "questionText": "Which is NOT a fruit?",
+        "answers": ["Apple", "Banana", "Potato", "Grape"],
+        "correctAnswer": "Potato"
+    },
+    {
+        "id": 13,
+        "questionText": "Which is a healthy snack?",
+        "answers": ["Chips", "Candy", "Cookie", "Apple"],
+        "correctAnswer": "Apple"
+    },
+    {
+        "id": 14,
+        "questionText": "What do you need to grow taller?",
+        "answers": ["Toys", "Sleep", "Books", "Paint"],
+        "correctAnswer": "Sleep"
+    },
+    {
+        "id": 15,
+        "questionText": "What's bad for your teeth?",
+        "answers": ["Water", "Milk", "Candy", "Veggies"],
+        "correctAnswer": "Candy"
+    },
+    {
+        "id": 16,
+        "questionText": "What's NOT in a healthy meal?",
+        "answers": ["Burger", "Fish", "Rice", "Salad"],
+        "correctAnswer": "Burger"
+    },
+    {
+        "id": 17,
+        "questionText": "What's needed for healthy skin?",
+        "answers": ["Dust", "Sun", "Cream", "Water"],
+        "correctAnswer": "Water"
+    },
+    {
+        "id": 18,
+        "questionText": "What helps you heal?",
+        "answers": ["Music", "Medicine", "Games", "Candy"],
+        "correctAnswer": "Medicine"
+    },
+    {
+        "id": 19,
+        "questionText": "What's bad for your health?",
+        "answers": ["Fruit", "Vegetables", "Water", "Soda"],
+        "correctAnswer": "Soda"
+    },
+    {
+        "id": 20,
+        "questionText": "What's good to drink when hot?",
+        "answers": ["Soda", "Juice", "Water", "Coffee"],
+        "correctAnswer": "Water"
+    }
+]
