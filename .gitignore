@@ -1,0 +1,4 @@
+./ReactNativeQuizApp/node_modules/*
+./ToDoListAPI/node_modules/*
+./ToDoListAPI/build
+.DS_Store
