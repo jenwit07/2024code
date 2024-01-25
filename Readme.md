@@ -7,7 +7,7 @@
 
 ## Getting Started
 ```bash
-cd todolist-service
+cd ReactNativeQuiz
 npm install
 npm start
 ```
